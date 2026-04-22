@@ -5,3 +5,4 @@ logs/*.jsonl
 data/snapshots/
 *.db
 live_sentinel.py
+webapp/node_modules/

@@ -6,7 +6,6 @@ from datetime import datetime
 import threading
 import time
 import shutil
-
 CRITICAL_SEGMENTS = []  # physically isolated, never touch
 assert CRITICAL_SEGMENTS == []
 
