@@ -4,3 +4,4 @@ logs/*.log
 logs/*.jsonl
 data/snapshots/
 *.db
+live_sentinel.py
